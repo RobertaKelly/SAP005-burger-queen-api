@@ -1,3 +1,4 @@
+/* eslint-disable linebreak-style */
 /* eslint-disable eol-last */
 module.exports = {
   up: async (queryInterface, Sequelize) => {

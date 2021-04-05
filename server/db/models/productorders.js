@@ -1,3 +1,4 @@
+/* eslint-disable linebreak-style */
 /* eslint-disable eol-last */
 const { Model } = require('sequelize');
 

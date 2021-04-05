@@ -1,3 +1,4 @@
+/* eslint-disable linebreak-style */
 // eslint-disable-next-line semi
 const { Router } = require('express')
 // eslint-disable-next-line semi

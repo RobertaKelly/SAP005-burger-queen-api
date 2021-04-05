@@ -1,3 +1,4 @@
+/* eslint-disable linebreak-style */
 /* eslint-disable eol-last */
 /* eslint-disable camelcase */
 /* eslint-disable no-undef */

@@ -1,3 +1,4 @@
+/* eslint-disable linebreak-style */
 /* eslint-disable eol-last */
 const { Router } = require('express');
 const ProductsController = require('../controller/ProductsController');

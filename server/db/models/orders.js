@@ -1,3 +1,5 @@
+/* eslint-disable linebreak-style */
+// eslint-disable-next-line linebreak-style
 const { Model } = require('sequelize');
 
 module.exports = (sequelize, DataTypes) => {
